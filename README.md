@@ -63,10 +63,8 @@ Currently working on:
 | Project | Description | Stack |
 |---|---|---|
 | 🏦 **Payment Ops Dashboard** | Async payment processing system with real-time fraud detection via Spring AI + LLMs | Java · Spring Boot · Angular · Kafka · Redis · Docker |
-| 🤖 **BananaBot** | Crypto trading bot with statistical regime detection and RAG-based knowledge base | Python · HMM · Qdrant · FastAPI |
+| 🤖 **[Banana Trading](https://github.com/Stan017/banana-trading)** | AI trading assistant — journal, Claude RAG chat, market depth heatmap, HMM regime detection & Bitunix sync | Python · Flask · Claude API · Qdrant |
 | 🏪 **BananaPay** | Fintech payments product for LATAM | Python · FastAPI · PostgreSQL |
-
----
 
 ### 📊 GitHub stats
 
