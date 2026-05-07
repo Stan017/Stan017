@@ -1,18 +1,3 @@
-<!--
-**Stan017/Stan017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hey, I'm Stanley 🍌
 
 **Java & Python Engineer · Fintech · Spring AI · LLMs**  
@@ -65,6 +50,7 @@ Currently working on:
 | 🏦 **Payment Ops Dashboard** | Async payment processing system with real-time fraud detection via Spring AI + LLMs | Java · Spring Boot · Angular · Kafka · Redis · Docker |
 | 🤖 **[Banana Trading](https://github.com/Stan017/banana-trading)** | AI trading assistant — journal, Claude RAG chat, market depth heatmap, HMM regime detection & Bitunix sync | Python · Flask · Claude API · Qdrant |
 | 🏪 **BananaPay** | Fintech payments product for LATAM | Python · FastAPI · PostgreSQL |
+| 🌹 **[PosRose](https://github.com/Stan017/PosRose)** | Open-source POS system + public storefront for fashion & beauty shops | Python · FastAPI · React · Next.js |
 
 ### 📊 GitHub stats
 
