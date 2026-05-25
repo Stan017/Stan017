@@ -12,8 +12,6 @@ My focus is on **resilient async architectures** — things that don't break whe
 
 Currently working on:
 - 🏦 **BananaPay** — a fintech/payments product built for LATAM
-- 🤖 **BananaBot** — a crypto trading bot with HMM regime detection, volatility surface analysis, CVD, fractional Kelly sizing, and a RAG knowledge base on Qdrant Cloud
-
 ---
 
 ### 🛠 Stack
