@@ -12,6 +12,8 @@ My focus is on **resilient async architectures** — things that don't break whe
 
 Currently working on:
 - 🏦 **BananaPay** — a fintech/payments product built for LATAM
+- 💳 **MediaNetPay** — open-source payment gateway for Ecuador built on MediaNet S.A.'s banking infrastructure
+
 ---
 
 ### 🛠 Stack
@@ -23,9 +25,11 @@ Currently working on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Frontend**  
+**Frontend & Mobile**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **Data & AI**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -37,6 +41,7 @@ Currently working on:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
@@ -49,6 +54,7 @@ Currently working on:
 | 🤖 **[Banana Trading](https://github.com/Stan017/banana-trading)** | AI trading assistant — journal, Claude RAG chat, market depth heatmap, HMM regime detection & Bitunix sync | Python · Flask · Claude API · Qdrant |
 | 🏪 **BananaPay** | Fintech payments product for LATAM | Python · FastAPI · PostgreSQL |
 | 🌹 **[PosRose](https://github.com/Stan017/PosRose)** | Open-source POS system + public storefront for fashion & beauty shops | Python · FastAPI · React · Next.js |
+| 💳 **[MediaNetPay](https://github.com/Stan017/Medianetpay)** | Open-source payment gateway for Ecuador — API, portal, SoftPOS NFC tap-to-pay, checkout widget, e-commerce plugins | Python · FastAPI · Next.js · React Native · GCP · Claude |
 
 ### 📊 GitHub stats
 
